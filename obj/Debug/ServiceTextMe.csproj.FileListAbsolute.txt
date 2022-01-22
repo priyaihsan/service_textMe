@@ -1,0 +1,6 @@
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ServiceTextMe\ServiceTextMe\bin\Debug\ServiceTextMe.dll.config
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ServiceTextMe\ServiceTextMe\bin\Debug\ServiceTextMe.dll
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ServiceTextMe\ServiceTextMe\bin\Debug\ServiceTextMe.pdb
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ServiceTextMe\ServiceTextMe\obj\Debug\ServiceTextMe.csproj.CoreCompileInputs.cache
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ServiceTextMe\ServiceTextMe\obj\Debug\ServiceTextMe.dll
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ServiceTextMe\ServiceTextMe\obj\Debug\ServiceTextMe.pdb
